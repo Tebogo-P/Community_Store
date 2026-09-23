@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 Architecture Overview
+## Architecture Overview
 
 - **Backend**: Java 17 + Spring Boot 3
   - **Security**: Spring Security with stateless JWT Authentication
@@ -18,7 +18,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Community-Store/
@@ -49,7 +49,7 @@ Community-Store/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - **Java 17 JDK** installed (`java -version`)
@@ -115,7 +115,7 @@ The frontend application will launch at **`http://localhost:3000`**.
 
 ---
 
-## 🔑 Core Features & API Endpoints
+## Core Features & API Endpoints
 
 ### Auth & User Verification (`/api/auth`, `/api/users`)
 - `POST /api/auth/register` - Register new account (Student uni email auto-verification rule included)
